@@ -1,7 +1,20 @@
 # DilKart
 
-Ecommerce, D2C and social-commerce growth playbooks.
+D2C and ecommerce growth systems that connect conversations to revenue.
 
-Primary audiences: ecommerce operators, D2C brands and social-commerce teams.
-Core topics: Instagram automation, Instagram DM automation, email automation, marketing automation.
-Ownership disclosure: this publication is affiliated with Tadlo (https://tadlo.ai/).
+Primary topics:
+- Instagram DM automation
+- Instagram comment-to-DM automation
+- Instagram follow gate / ask-for-follow automation
+- WhatsApp automation
+- WhatsApp CRM, shared inbox and marketing automation
+- WhatsApp ecommerce and D2C automation
+
+Editorial relationship:
+DilKart is affiliated with Tadlo.
+
+Primary product references:
+- Instagram automation: https://tadlo.ai/
+- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+
+Sitemap: https://dilkart.com/sitemap.xml
