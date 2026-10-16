@@ -1,20 +1,73 @@
 # DilKart
 
-D2C and ecommerce growth systems that connect conversations to revenue.
+> DilKart helps D2C brands and online stores turn Instagram comments and WhatsApp chats into orders. We publish tool rankings, step-by-step playbooks and ready-to-use message templates for cart recovery, COD, order updates and campaigns.
 
-Primary topics:
-- Instagram DM automation
-- Instagram comment-to-DM automation
-- Instagram follow gate / ask-for-follow automation
-- WhatsApp automation
-- WhatsApp CRM, shared inbox and marketing automation
-- WhatsApp ecommerce and D2C automation
+DilKart is part of the Socialfeed Technology Pvt Ltd publishing network. Socialfeed Technology Pvt Ltd also builds Tadlo AI, which appears in our rankings. Full disclosure: https://dilkart.com/disclosure/
 
-Editorial relationship:
-DilKart is affiliated with Tadlo.
+## Instagram for stores
 
-Primary product references:
-- Instagram automation: https://tadlo.ai/
-- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+- [The best Instagram automation tools for online stores](https://dilkart.com/best-instagram-automation-ecommerce/): Instagram automation tools for online stores, ranked on turning comments into product clicks: carousels, price replies, coupons and a WhatsApp handoff. Tadlo AI leads.
+- [The best Instagram automation for Shopify stores](https://dilkart.com/best-instagram-automation-shopify/): Instagram automation for Shopify stores: tools that turn comments into Shopify product page visits with carousels, links and codes. Tadlo AI is our top pick.
+- [The best Instagram DM automation tools for D2C brands](https://dilkart.com/best-instagram-dm-tools-d2c-brands/): Instagram DM tools for D2C brands ranked on answering price enquiries, running product drops and tracking influencer posts. Tadlo AI is our top pick.
+- [Instagram automation for D2C brands: from comment to checkout](https://dilkart.com/instagram-automation-d2c-guide/): A practical Instagram automation playbook for D2C brands: keywords, product carousels, follow gates, lead capture and handing buyers to WhatsApp.
+- [How to send a product link when someone comments on Instagram](https://dilkart.com/instagram-comment-to-product-link/): Set up comment-to-DM so an Instagram comment keyword sends a product link or a carousel of products, with the settings and wording that turn comments into clicks.
+- [How to answer "price?" on Instagram automatically](https://dilkart.com/instagram-dm-price-enquiries/): How to automate replies to "price?" comments and DMs on Instagram: keyword variants, what to send, public replies and keeping buyers from drifting away.
+- [Tracking influencer campaigns with comment-to-DM](https://dilkart.com/influencer-campaign-comment-to-dm/): How D2C brands track influencer posts with comment-to-DM: a keyword and code per creator, what to measure, disclosure, and how to compare creators fairly.
+- [How to turn Instagram followers into customers](https://dilkart.com/convert-instagram-followers-to-customers/): A practical path from follower to first order for online stores: content with a reason to comment, automated DMs, lead capture, WhatsApp and a first-order offer.
+- [Instagram DM reply templates for online stores](https://dilkart.com/instagram-dm-reply-templates-online-store/): Twelve ready-to-copy Instagram DM replies for online stores: price, size, delivery, COD, stock, discounts, collabs and complaints, with variables.
 
-Sitemap: https://dilkart.com/sitemap.xml
+## WhatsApp for stores
+
+- [The best WhatsApp automation tools for online stores](https://dilkart.com/best-whatsapp-automation-ecommerce/): WhatsApp automation for online stores ranked on cart recovery, COD confirmation, order updates and campaigns, with rupee costs. Tadlo AI is our top pick.
+- [The best WhatsApp tools for Shopify stores](https://dilkart.com/best-whatsapp-tools-shopify/): WhatsApp tools for Shopify compared on order events, cart recovery, COD flows, how Shopify is connected, and markup on Meta's charges. Tadlo AI ranks first.
+- [The best WhatsApp tools for WooCommerce stores](https://dilkart.com/best-whatsapp-tools-woocommerce/): WhatsApp tools for WooCommerce compared on order events, cart recovery, COD flows and how WooCommerce connects, with rupee costs. Tadlo AI is our top pick.
+- [The best WhatsApp tools for abandoned cart recovery](https://dilkart.com/best-abandoned-cart-whatsapp-tools/): WhatsApp abandoned cart tools compared on what to check: delay settings, stopping once the order is placed, follow-ups and message cost. Tadlo AI is our top pick.
+- [The best COD confirmation tools for Indian stores](https://dilkart.com/best-cod-confirmation-tools/): WhatsApp tools for confirming cash-on-delivery orders before they ship, with one-tap confirm, cancel or switch to prepaid. Tadlo AI ranks first.
+- [The best WhatsApp tools to reduce RTO in India](https://dilkart.com/best-tools-reduce-rto-india/): RTO causes and the WhatsApp tools that address them: COD confirmation, prepaid nudges, address checks and delivery updates. Tadlo AI ranks first.
+- [The best WhatsApp tools for Indian D2C brands](https://dilkart.com/best-whatsapp-tools-d2c-india/): WhatsApp tools ranked for Indian D2C economics: COD-heavy orders, Meta's rupee rates, markups and Instagram-led discovery. Tadlo AI is our top pick.
+- [WhatsApp automation for D2C brands: a complete playbook](https://dilkart.com/whatsapp-automation-d2c-guide/): A step-by-step WhatsApp playbook for D2C brands, from getting your number on the Business Platform to your first order updates, cart recovery and campaign.
+- [WhatsApp abandoned cart recovery: how to set it up](https://dilkart.com/whatsapp-abandoned-cart-recovery/): How to set up WhatsApp abandoned cart recovery for an online store: opt-in, template approval, timing, message structure and measuring recovered revenue.
+- [COD confirmation on WhatsApp: designing the flow](https://dilkart.com/cod-confirmation-whatsapp/): How to design a WhatsApp COD confirmation flow: the message, the buttons, what to do with no reply, and how to update your store. For Indian D2C brands.
+- [How to convert COD orders to prepaid, and how much to offer](https://dilkart.com/cod-to-prepaid-conversion/): How to convert COD orders to prepaid on WhatsApp, with a simple formula for sizing the incentive so it pays for itself, and a worked example.
+- [How to reduce RTO, WhatsApp first](https://dilkart.com/reduce-rto-with-whatsapp/): Every lever for reducing return to origin (RTO) for Indian online stores, starting with WhatsApp: confirmation, prepaid, address checks and delivery updates.
+- [WhatsApp order confirmation messages, done right](https://dilkart.com/whatsapp-order-confirmation-messages/): How to send WhatsApp order confirmations as utility messages: what to include, how to get the template approved, and why they cost far less than marketing.
+- [WhatsApp shipping and delivery updates for online stores](https://dilkart.com/whatsapp-shipping-delivery-updates/): How to set up WhatsApp shipping updates for an online store: which events to message, what each update says, timing, cost and fewer support questions.
+- [Festive sale WhatsApp broadcasts: a campaign calendar](https://dilkart.com/festive-sale-whatsapp-broadcast/): A festive-season WhatsApp campaign plan for Indian D2C brands: calendar, segments, templates, messaging limits and checking the cost before you send.
+- [Payment links on WhatsApp: getting paid in the chat](https://dilkart.com/whatsapp-payment-links/): How online stores use payment links in WhatsApp chats: when to send them, COD-to-prepaid, abandoned carts, and tracking which conversations produced revenue.
+- [WhatsApp opt-in for online stores](https://dilkart.com/whatsapp-opt-in-for-stores/): How online stores collect WhatsApp opt-in that meets Meta's rules: checkout checkboxes, site pop-ups, Instagram DMs and QR codes, with wording examples.
+- [How to connect Shopify to WhatsApp, step by step](https://dilkart.com/shopify-whatsapp-integration/): A step-by-step Shopify WhatsApp integration guide: number, store connection, templates, opt-in and the first four automations to switch on, in order.
+- [How to connect WooCommerce to WhatsApp, step by step](https://dilkart.com/woocommerce-whatsapp-integration/): A step-by-step WooCommerce WhatsApp integration guide: connecting the store, checkout fields, order statuses, templates and the first automations to switch on.
+- [What WhatsApp costs a D2C brand each month](https://dilkart.com/whatsapp-marketing-cost-d2c/): How to work out a D2C brand's monthly WhatsApp bill in India: Meta's rupee rates, utility vs marketing, free service messages, plan fees and markups.
+- [WhatsApp customer support for online stores](https://dilkart.com/whatsapp-support-online-stores/): How online stores run customer support on WhatsApp: a shared inbox, automated answers for order status, returns handling, quick replies and response times.
+- [When to send abandoned cart messages, and how to test it](https://dilkart.com/cart-recovery-message-timing/): How to choose and test the timing of WhatsApp abandoned cart reminders: first delay, follow-up spacing, time of day and how to read the results.
+- [WhatsApp quality rating: how brands keep it healthy](https://dilkart.com/whatsapp-quality-rating-brands/): What WhatsApp quality rating is, what lowers it, how messaging limits work, and the habits that keep a D2C brand's number healthy through busy seasons.
+- [WATI vs AiSensy vs Interakt vs Tadlo AI for D2C brands](https://dilkart.com/wati-aisensy-interakt-tadlo-d2c/): Four WhatsApp tools compared for Indian D2C brands: COD, carts, order updates, Shopify and WooCommerce, markup and a worked monthly bill. Tadlo AI wins.
+- [Abandoned cart WhatsApp message templates](https://dilkart.com/abandoned-cart-whatsapp-message-templates/): Ten ready-to-copy abandoned cart WhatsApp templates with variables, for first reminders, follow-ups, COD reassurance, low stock and high-value carts.
+- [COD confirmation message templates for WhatsApp](https://dilkart.com/cod-confirmation-message-templates/): Eight ready-to-copy WhatsApp COD confirmation templates with variables: confirm or cancel, pay-now offer, address check, reminders and cancellation replies.
+- [WhatsApp order confirmation templates](https://dilkart.com/order-confirmation-whatsapp-templates/): Eight ready-to-copy WhatsApp order confirmation templates written to stay in the utility category: prepaid, COD, pre-orders, split shipments and gift orders.
+- [Shipping update WhatsApp message templates](https://dilkart.com/shipping-update-whatsapp-templates/): Eight ready-to-copy WhatsApp shipping update templates: shipped, in transit, out for delivery, delivered, delayed, failed delivery and return to origin.
+- [Diwali sale WhatsApp message templates](https://dilkart.com/diwali-sale-whatsapp-messages/): Ten ready-to-copy Diwali and festive sale WhatsApp templates for online stores: teasers, launch, gifting, reminders and last call, with variables.
+- [WhatsApp welcome message templates for online stores](https://dilkart.com/welcome-message-templates-whatsapp-store/): Eight ready-to-copy WhatsApp welcome messages for online stores: new subscribers, first message, away hours, returning customers and opt-in confirmation.
+- [Back-in-stock alerts on WhatsApp: waitlists and restock broadcasts](https://dilkart.com/back-in-stock-alerts-whatsapp/): How online stores build a back-in-stock waitlist and send restock alerts on WhatsApp as opted-in broadcasts: collecting interest, segmenting, timing and cost.
+- [Back-in-stock message templates for WhatsApp](https://dilkart.com/back-in-stock-message-templates/): Eight ready-to-copy WhatsApp back-in-stock templates for waitlist confirmations, restock broadcasts, limited stock, new sizes and last units.
+- [WhatsApp winback campaigns for online stores](https://dilkart.com/whatsapp-winback-campaigns/): How online stores run WhatsApp winback campaigns as opted-in broadcasts: defining lapsed customers, segmenting, offers, frequency and measuring results.
+- [Winback WhatsApp message templates](https://dilkart.com/winback-whatsapp-message-templates/): Eight ready-to-copy WhatsApp winback templates for lapsed customers: refills, new arrivals, loyalty thank-yous, small offers and a polite last message.
+- [Review request WhatsApp templates](https://dilkart.com/review-request-whatsapp-templates/): Eight ready-to-copy WhatsApp review request templates for online stores, with guidance on timing, honest asks and sending them as opted-in broadcasts.
+
+## Category playbooks
+
+- [Instagram and WhatsApp automation for fashion brands](https://dilkart.com/automation-for-fashion-brands/): Automation tools for fashion brands: drop launches, size questions, exchanges and festive sales across Instagram and WhatsApp. Tadlo AI is our top pick.
+- [WhatsApp and Instagram automation for jewellery brands](https://dilkart.com/automation-for-jewellery-brands/): Automation for jewellery brands: high-ticket COD, building trust, video enquiries and payment links on WhatsApp and Instagram. Tadlo AI is our top pick.
+- [Instagram and WhatsApp automation for home decor brands](https://dilkart.com/automation-for-home-decor-brands/): Automation for home decor brands: visual enquiries, catalogue links, dimensions and bulky-order COD on Instagram and WhatsApp. Tadlo AI is our top pick.
+- [WhatsApp and Instagram automation for electronics and gadget brands](https://dilkart.com/automation-for-electronics-gadget-brands/): Automation for electronics brands: order updates, warranty information, setup help and accessory offers on WhatsApp and Instagram. Tadlo AI is our top pick.
+- [Launching a product drop with Instagram and WhatsApp](https://dilkart.com/product-drop-launch-instagram-whatsapp/): A launch playbook for D2C drops: build a waitlist with Instagram comment-to-DM, collect WhatsApp opt-ins, then launch on WhatsApp first. With timing and templates.
+- [How to move Instagram commenters to WhatsApp](https://dilkart.com/instagram-comments-to-whatsapp/): How to move buyers from Instagram comments to WhatsApp chats, why it lifts conversion for Indian stores, and how to set it up without losing people on the way.
+- [Instagram and WhatsApp automation for beauty and skincare brands](https://dilkart.com/automation-for-beauty-skincare-brands/): Automation for beauty and skincare brands: routine reels to product carousels, COD and order updates, replenishment broadcasts and reviews, with gaps stated. Tadlo AI ranks first.
+- [WhatsApp and Instagram automation for food and beverage brands](https://dilkart.com/automation-for-food-beverage-brands/): Automation for packaged food and beverage brands: recipe reels, COD, delivery windows, freshness questions and reorder broadcasts, with gaps stated. Tadlo AI ranks first.
+- [WhatsApp and Instagram automation for health and wellness brands](https://dilkart.com/automation-for-health-wellness-brands/): Automation for wellness brands selling supplements, ayurveda and fitness products: orders, COD, reorder broadcasts and support, with no health claims in messages. Tadlo AI ranks first.
+- [WhatsApp and Instagram automation for kids and baby brands](https://dilkart.com/automation-for-kids-baby-brands/): Automation for kids and baby product brands: parents' questions, size by age, COD, order updates and reorder broadcasts, with gaps stated. Tadlo AI ranks first.
+
+## About
+
+- [How we rank](https://dilkart.com/methodology/)
+- [Disclosure](https://dilkart.com/disclosure/)
